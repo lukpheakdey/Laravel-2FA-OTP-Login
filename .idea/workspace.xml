@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d865100-697a-45ec-a590-93c27d3ad5be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/resources/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/resources/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/resources/assets/js/components/ExampleComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/resources/assets/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/resources/assets/sass/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/resources/views/google2fa/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2fa-otp-login1/resources/views/google2fa/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2fa-laravel-login/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/2fa-laravel-login/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +16,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2fa-laravel-login/config/app.php">
+        <entry file="file://$PROJECT_DIR$/2fa-laravel-login/resources/views/layouts/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="232" column="8" selection-start-line="232" selection-start-column="8" selection-end-line="232" selection-end-column="8" />
+            <state relative-caret-position="212">
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2fa-laravel-login/webpack.mix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -72,8 +73,8 @@
         <option value="$PROJECT_DIR$/2fa-laravel-login/routes/web.php" />
         <option value="$PROJECT_DIR$/2fa-laravel-login/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/2fa-laravel-login/resources/views/home.blade.php" />
-        <option value="$PROJECT_DIR$/2fa-laravel-login/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/2fa-laravel-login/config/app.php" />
+        <option value="$PROJECT_DIR$/2fa-laravel-login/resources/views/layouts/app.blade.php" />
       </list>
     </option>
   </component>
@@ -203,6 +204,38 @@
               <item name="Laravel-2FA-OTP-Login" type="b2602c69:ProjectViewProjectNode" />
               <item name="Laravel-2FA-OTP-Login" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Laravel-2FA-OTP-Login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-2FA-OTP-Login" type="462c0819:PsiDirectoryNode" />
+              <item name="2fa-laravel-login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-2FA-OTP-Login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-2FA-OTP-Login" type="462c0819:PsiDirectoryNode" />
+              <item name="2fa-laravel-login" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-2FA-OTP-Login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-2FA-OTP-Login" type="462c0819:PsiDirectoryNode" />
+              <item name="2fa-laravel-login" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-2FA-OTP-Login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-2FA-OTP-Login" type="462c0819:PsiDirectoryNode" />
+              <item name="2fa-laravel-login" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-2FA-OTP-Login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-2FA-OTP-Login" type="462c0819:PsiDirectoryNode" />
+              <item name="2fa-laravel-login" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,6 +243,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lara2fa" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -244,12 +278,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574010147861</updated>
-      <workItem from="1574010149309" duration="7221000" />
+      <workItem from="1574010149309" duration="7926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7221000" />
+    <option name="totallyTimeSpent" value="7926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1043" height="900" extended-state="6" />
@@ -493,24 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2fa-laravel-login/webpack.mix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2fa-laravel-login/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-302">
           <caret line="261" column="13" selection-start-line="261" selection-start-column="13" selection-end-line="261" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2fa-laravel-login/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -532,6 +552,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="232" column="8" selection-start-line="232" selection-start-column="8" selection-end-line="232" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2fa-laravel-login/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2fa-laravel-login/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
         </state>
       </provider>
     </entry>
