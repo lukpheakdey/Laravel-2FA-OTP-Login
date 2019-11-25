@@ -37,7 +37,7 @@
                 <!-- Left Side Of Navbar -->
                 <ul class="nav navbar-nav">&nbsp;
                 </ul>
-
+                <p class="pheakdey"> AAAAA </p>
                 <!-- Right Side Of Navbar -->
                 <ul class="nav navbar-nav navbar-right">
                     <!-- Authentication Links -->
